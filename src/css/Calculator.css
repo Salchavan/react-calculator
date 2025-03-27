@@ -61,6 +61,10 @@ button:active{
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color: #b7e2c4;
 }
 .screen-output{
     width: 100%;
